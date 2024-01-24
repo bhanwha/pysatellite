@@ -1,0 +1,17 @@
+{
+  "name": "pysatellite",
+  "version": "0.5.0",
+  "description": "pysatellite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pysatellite"
+  ],
+  "author": "pysatellite",
+  "license": "ISC",
+  "bin": {
+    "pysatellite": "./index.js"
+  }
+}
