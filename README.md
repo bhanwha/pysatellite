@@ -10,7 +10,7 @@ hello pysatellite
 ```
 
 ### dev stack
-- WSL > nvm > nodejs v20.11.0. > npm publis
+- WSL > nvm > nodejs v20.11.0. > npm cli
 
 ### publish
 ```
