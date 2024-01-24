@@ -1,13 +1,13 @@
 {
   "name": "pysatellite",
-  "version": "0.1.1",
-  "description": "pysatellite",
+  "version": "0.6.0",
+  "description": "Check out awesome satellite ASCII art",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "pysatellite"
+    "satellite"
   ],
   "author": "pysatellite",
   "license": "ISC",
