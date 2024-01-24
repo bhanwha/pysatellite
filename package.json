@@ -1,6 +1,6 @@
 {
   "name": "pysatellite",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "pysatellite",
   "main": "index.js",
   "scripts": {
