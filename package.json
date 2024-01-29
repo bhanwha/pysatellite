@@ -1,6 +1,6 @@
 {
   "name": "pysatellite",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Check out awesome satellite ASCII art",
   "main": "index.js",
   "scripts": {
